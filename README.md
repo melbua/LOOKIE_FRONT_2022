@@ -68,14 +68,13 @@ ex)
 1. 조건 : 액티비티 간 Intent로 연결할 것.
 2. 프로젝트 파일을 fork뜬 자신의 레포지토리에 push후 스터디 레포지토리/자신의 LOOKIE 브랜치에 Pull request까지 하기
 
-### **Week 2) 안드로이드 UI 및 Git 실습.(4/6~4/12)**
+### **Week 2) 안드로이드 UI.(4/6~4/12)**
 
 1. 패스트 캠퍼스 04 안드로이드 Essential - UI 부분 학습하기 (핵심 개념 : Scrollview, Imageview, Linearlayout)
 2. 자신의 취향 or 친한친구가 담긴 Image를 등록하고 Scroll 하여 Image를 볼 수 있도록 만들기
-3. Git Hub 2021 Lookie Front 를 fork 해서 자신의 레포지토리에 push해보기
-4. build 한 화면 캡쳐해서 issue에 올리기
+3. build 한 화면 캡쳐해서 issue에 올리기
 
-### **Week 1) Kotlin에 대해서 알아보자.(3/30 ~ 4/5)**
+### **Week 1) Kotlin입문 및 Git 실습.(3/30 ~ 4/5)**
 
 1. Kotlin의 장점에 대해 적어보자.
 2. Kotlin의 기본 문법을 정리해보자.
@@ -83,4 +82,5 @@ ex)
 - 자료형
 - 함수
 - 분기문
-- 반복문
+- 반복문. 
+3. Git Hub 2021 Lookie Front 를 fork 해서 자신의 레포지토리에 push해보기
