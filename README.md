@@ -75,7 +75,7 @@ ex)
 3. build 한 화면 캡쳐해서 issue에 올리기
 
 ### **Week 1) Kotlin입문 및 Git 실습.(3/30 ~ 4/5)**
-
+0. 패스트 캠퍼스 03 안드로이드 Essential - Kotlin 부분 학습하기
 1. Kotlin의 장점에 대해 적어보자.
 2. Kotlin의 기본 문법을 정리해보자.
 - 변수
