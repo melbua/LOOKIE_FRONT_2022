@@ -83,4 +83,4 @@ ex)
 - 함수
 - 분기문
 - 반복문. 
-3. Git Hub 2021 Lookie Front 를 fork 해서 자신의 레포지토리에 push해보기
+3. Github 2022 Lookie Front 를 fork 해서 자신의 레포지토리에 push해보기
